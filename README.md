@@ -26,27 +26,23 @@ citi_df['tripduration_datetime2'] = pd.to_datetime(citi_df['tripduration'], unit
 
 on Tableau, we were able to create the following visualizations with our [Citibike Data](https://github.com/doliver231/bikesharing/blob/main/201908-citibike-tripdata.zip):
 
-![Checkout Times](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times.png)
-
-
-
-![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender1.png)
-
-
-
 ![Top Starting Locations](https://github.com/doliver231/bikesharing/blob/main/Images/Top_Starting_Locations.png)
 
 
 
+![Checkout Times](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times.png)
+![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender1.png)
+
+
+
+
 ![Trips by Weekday Hour](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Weekday_Hour.png)
-
-
-
 ![Trips by Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Gender.png)
 
 
 
 ![Usertype Trips Gender Weekday](https://github.com/doliver231/bikesharing/blob/main/Images/Usertype_Trips_Gender_Weekday.png)
+![Usertype Percentages]()
 
 
 
