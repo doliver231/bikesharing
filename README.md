@@ -28,49 +28,29 @@ on Tableau, we were able to create the following visualizations with our [Citibi
 
 ![Top Starting Locations](https://github.com/doliver231/bikesharing/blob/main/Images/Top_Starting_Locations.png)
 
-
+There were over 2.3 million rides for the month of August 2019. Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 ![Checkout Times](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times.png)
 ![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender1.png)
 
-
-
+Male users take approximately 3 times more time checking out bikes than the female users.
 
 ![Trips by Weekday Hour](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Weekday_Hour.png)
 ![Trips by Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Gender.png)
 
-
+Highest activity hours are from 7AM-9AM & 5PM-7PM on weekdays. The lowest activity are from 2AM-5AM is low, which would be the  best window for bike maintenance. Weekend ride activity are highest from 10AM-7PM, a much wider range than for weekdays.
 
 ![Usertype Trips Gender Weekday](https://github.com/doliver231/bikesharing/blob/main/Images/Usertype_Trips_Gender_Weekday.png)
-![Usertype Percentages]()
+![Usertype Percentages](https://github.com/doliver231/bikesharing/blob/main/Images/Usertype_percentages.png)
 
-
+81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
 
 ![Average Trip Duration BirthYear](https://github.com/doliver231/bikesharing/blob/main/Images/Average_Trip_Duration_BirthYear.png)
 
-There were over 2.3 million rides for the month of August 2019.
-81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
-There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
-Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
-Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
-The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
-Bikes are mostly checked out for 4 to 6 hours.
-Male users take approximately 3 times more rides than the female users.
-Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
-Weekend rides are highest from 10:00 AM to 7:00 PM.
-Those rides are mostly taken by male users.
+There is a wide range of user ages; Younger users tend to use the service for longer rides.
 
 ## Conclusion
 
-The data shows high activity of the bike sharing service in New York during the month of August 2019.
-The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
-Additional analysis would be beneficial by :
+The majority of the rides were taken place on the main island of Manhattan, taken primarily by male users during morning and evening rush hours. This implies this bike service is being used as one of the major transportation modes in the city, just alongside the other means such as train, subway, and taxi. The vast majority of the usage are specifically subscribers, who are depending on this as a consistent transportation method. 
 
-comparing data for different months to determine trends across the year,
-including weather data to find the correlation between the weather and the rides.
-
-Based upon the visualizations above, we can see that the vast majority of usage comes from Subscribers that are Male using bikes during weekday commutes in the morning and evening.
-
-Additional visualizations could include showing which Stations correspond to the most amount of bike rentals. Also a visualization showing the age of the average customer compared to how long they rent a bike could be helpful.
-
-The following link is for the prepared Tableau Story, which includes the above visualizations as interactive.
+The data set showed a good amount of details specifically for August 2019. It would be beneficial to obtain visualizations of datasets for every month of the year, to get a good understanding of how successful this service is throughout the year. It would also be useful to obtain data from a city with a similar population as Des Moines that also use bike sharing services, to get a better comparison of data. I'm sure bike riding depends greatly on the current weather at the time, so comparing these factors can really give us an idea how well the service will perform in Des Moines, which has its own weather trends throughout the year.
