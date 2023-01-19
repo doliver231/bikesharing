@@ -30,24 +30,34 @@ on Tableau, we were able to create the following visualizations with our [Citibi
 
 There were over 2.3 million rides for the month of August 2019. Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
+---
+
 ![Checkout Times](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times.png)
 ![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender1.png)
 
 Male users take approximately 3 times more time checking out bikes than the female users.
 
+---
+
 ![Trips by Weekday Hour](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Weekday_Hour.png)
 ![Trips by Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Trips_by_Gender.png)
 
-Highest activity hours are from 7AM-9AM & 5PM-7PM on weekdays. The lowest activity are from 2AM-5AM is low, which would be the  best window for bike maintenance. Weekend ride activity are highest from 10AM-7PM, a much wider range than for weekdays.
+Highest activity hours are from 7AM-9AM & 5PM-7PM on weekdays. The lowest activity is from 2AM-5AM, which would be the  best window for bike maintenance. Weekend ride activity are highest from 10AM-7PM, a much wider range than for weekdays.
+
+---
 
 ![Usertype Trips Gender Weekday](https://github.com/doliver231/bikesharing/blob/main/Images/Usertype_Trips_Gender_Weekday.png)
 ![Usertype Percentages](https://github.com/doliver231/bikesharing/blob/main/Images/Usertype_percentages.png)
 
-81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
+Majority of users are male subscribers on weekdays, primarily on the midday, Wednesday. There are definitely more usage from subscribers than of regular users.
+
+---
 
 ![Average Trip Duration BirthYear](https://github.com/doliver231/bikesharing/blob/main/Images/Average_Trip_Duration_BirthYear.png)
 
 There is a wide range of user ages; Younger users tend to use the service for longer rides.
+
+---
 
 ## Conclusion
 
