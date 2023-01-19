@@ -30,7 +30,7 @@ on Tableau, we were able to create the following visualizations with our [Citibi
 
 
 
-![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender.png)
+![Checkout Times Gender](https://github.com/doliver231/bikesharing/blob/main/Images/Checkout_Times_Gender1.png)
 
 
 
